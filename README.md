@@ -27,5 +27,7 @@ This project demonstrates how I deployed a live website using AWS EC2.
 ## 📸 Output
 (Add screenshot here)
 
-## 🔗 Live Website
-Soon!
+## 🌐 Live Website
+
+⚠️ Note: AWS EC2 instance is currently stopped to avoid charges.  
+The website was successfully deployed and tested.
