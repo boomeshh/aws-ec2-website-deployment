@@ -28,4 +28,4 @@ This project demonstrates how I deployed a live website using AWS EC2.
 (Add screenshot here)
 
 ## 🔗 Live Website
-http://your-ec2-public-ip
+Soon!
