@@ -9,6 +9,10 @@ This project demonstrates how I deployed a live website using AWS EC2.
 - Apache Web Server
 - HTML
 
+## 📸 Output
+
+![Website Screenshot](SCREENSHOT/DAY1.png)
+
 ## 🛠️ Steps Performed
 1. Launched EC2 instance
 2. Connected using SSH
