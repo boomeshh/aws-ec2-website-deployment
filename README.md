@@ -38,6 +38,12 @@ This project demonstrates real-world cloud deployment, server configuration, and
 
 ---
 
+## 🏗️ Architecture
+
+User → Browser → EC2 (Linux) → Apache → Website
+
+---
+
 ## 🔥 Real Problems I Faced
 - SSH connection failure
 - Port 80 not accessible
@@ -53,7 +59,7 @@ This project demonstrates real-world cloud deployment, server configuration, and
 ---
 
 ## 🌍 Live Demo
-(Add your public IP link here if active)
+Currently stopped to avoid AWS charges. Can be restarted anytime.
 
 ---
 
