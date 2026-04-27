@@ -1,33 +1,54 @@
-# 🚀 AWS EC2 Website Deployment
+# 🌐 AWS EC2 Website Deployment
 
-## 📌 Overview
-This project demonstrates how I deployed a live website using AWS EC2.
+## 🚀 Overview
+Deployed a live website on AWS EC2 using Linux and Apache.
 
-## ⚙️ Tech Used
+This project demonstrates real-world cloud deployment, server configuration, and debugging.
+
+---
+
+## 🧰 Tech Stack
 - AWS EC2
 - Linux (Ubuntu)
 - Apache Web Server
 - HTML
 
-## 📸 Output
+---
 
-![Website Screenshot](SCREENSHOT/DAY1.png)
+## ⚙️ What I Did
+- Launched EC2 instance
+- Connected via SSH
+- Installed Apache server
+- Configured security groups (port 80)
+- Deployed website files
+- Fixed real-world issues (HTTP blocked, permissions)
 
-## 🛠️ Steps Performed
-1. Launched EC2 instance
-2. Connected using SSH
-3. Installed Apache server
-4. Hosted HTML website
+---
 
-## 💡 Key Learning
-- Real-world server deployment
-- Linux command usage
-- Debugging port 80 issues
+## 🧠 Key Learnings
+- Cloud deployment is not just coding
+- Networking & security groups are critical
+- Debugging is a major part of cloud engineering
 
-## 📸 Output
-(Add screenshot here)
+---
 
-## 🌐 Live Website
+## 📸 Screenshots
+(Add your EC2 + website screenshots here)
 
-⚠️ Note: AWS EC2 instance is currently stopped to avoid charges.  
-The website was successfully deployed and tested.
+---
+
+## 🌍 Live Demo
+(Add your public IP link here if active)
+
+---
+
+## 🎯 Future Improvements
+- Add Nginx reverse proxy
+- Deploy backend (FastAPI)
+- Add domain & HTTPS
+
+---
+
+## 👨‍💻 Author
+Boomesh  
+Cloud Engineering Learner (AWS)
