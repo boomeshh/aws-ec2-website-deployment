@@ -49,7 +49,7 @@ This project demonstrates real-world cloud deployment, server configuration, and
 - Fixed Security Group inbound rules
 - Restarted Apache service
 - Checked firewall & permissions
-- 
+
 ---
 
 ## 🌍 Live Demo
