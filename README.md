@@ -33,7 +33,11 @@ This project demonstrates real-world cloud deployment, server configuration, and
 ---
 
 ## 📸 Screenshots
+
 ![Apache](SCREENSHOT/APACHE-WORKS.png)
+
+---
+
 ![Website](SCREENSHOT/USER.png)
 
 ---
