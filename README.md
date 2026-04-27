@@ -38,6 +38,20 @@ This project demonstrates real-world cloud deployment, server configuration, and
 
 ---
 
+## 🔥 Real Problems I Faced
+- SSH connection failure
+- Port 80 not accessible
+- Apache not starting
+
+---
+
+## ✅ How I Solved
+- Fixed Security Group inbound rules
+- Restarted Apache service
+- Checked firewall & permissions
+- 
+---
+
 ## 🌍 Live Demo
 (Add your public IP link here if active)
 
