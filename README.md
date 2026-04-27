@@ -33,7 +33,8 @@ This project demonstrates real-world cloud deployment, server configuration, and
 ---
 
 ## 📸 Screenshots
-SCREENSHOT/USER.png
+![EC2 Instance](screenshots/ec2.png)
+![Website](SCREENSHOT/USER.png)
 
 ---
 
